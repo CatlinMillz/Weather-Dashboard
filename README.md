@@ -20,6 +20,6 @@ THEN I am again presented with current and future conditions for that city
 
 ...
 
-### Demo
-
+[https://github.com/CatlinMillz/Weather-Dashboard]https://github.com/CatlinMillz/Weather-Dashboard
+![demo][./assets/demo6.png]
 
