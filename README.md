@@ -21,5 +21,5 @@ THEN I am again presented with current and future conditions for that city
 ...
 
 [https://github.com/CatlinMillz/Weather-Dashboard]https://github.com/CatlinMillz/Weather-Dashboard
-![demo][./assets/demo6.png]
+![demo][./assets/images/demo6.png]
 
